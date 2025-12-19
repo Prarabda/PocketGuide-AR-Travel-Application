@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="karnalicom" size="1.000000 0.348000" />
+    <ImageTarget name="koshi" size="1.000000 0.347333" />
+    <ImageTarget name="mbmc" size="1.000000 0.190000" />
+    <ImageTarget name="billingcounter" size="1.000000 0.416961" />
+    <ImageTarget name="boyswashroom" size="1.000000 0.353348" />
+    <ImageTarget name="receptioncom" size="1.000000 0.500000" />
+    <ImageTarget name="gandakicom" size="1.000000 0.330667" />
+  </Tracking>
+</QCARConfig>
