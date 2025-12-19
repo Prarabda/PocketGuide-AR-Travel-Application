@@ -18,7 +18,7 @@ EditorBuildSettings:
     path: Assets/Scenes/EnglishPlace.unity
     guid: e87347f6d6ac37f4ca784c7248414166
   - enabled: 1
-    path: Assets/Scenes/Nepali.unity
+    path: Assets/Scenes/NepaliPlace.unity
     guid: fb96bc7cc5b671947b526b99398e91cb
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af, type: 2}
