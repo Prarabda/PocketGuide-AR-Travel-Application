@@ -32,6 +32,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/English_AR.unity
     guid: 25c09ec4b5c0cac45a7ee7bb152023b7
+  - enabled: 1
+    path: Assets/Scenes/EnglishPlace_Premium.unity
+    guid: 41182dd217ef63c45a19dc3536a99ce0
+  - enabled: 1
+    path: Assets/Scenes/NepaliPlace_Premium.unity
+    guid: 09610a99e5ebe0842b96af3b1d6475f1
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 0465d33c6aee55f44b0237db8b0e0259, type: 2}
