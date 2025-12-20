@@ -580,7 +580,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 466167767}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 992550124}
+        m_TargetAssemblyTypeName: SceneChange, Assembly-CSharp
+        m_MethodName: ChangeScene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: NepaliPlace_Premium
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &466167767
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1044,7 +1056,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1270688027}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 992550124}
+        m_TargetAssemblyTypeName: SceneChange, Assembly-CSharp
+        m_MethodName: ChangeScene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: NepaliPlace_Premium
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1270688027
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1165,7 +1189,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1316524679}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 992550124}
+        m_TargetAssemblyTypeName: SceneChange, Assembly-CSharp
+        m_MethodName: ChangeScene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: NepaliPlace_Premium
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1316524679
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1440,7 +1476,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1475038194}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 992550124}
+        m_TargetAssemblyTypeName: SceneChange, Assembly-CSharp
+        m_MethodName: ChangeScene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: NepaliPlace_Premium
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1475038194
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1561,7 +1609,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1650909258}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 992550124}
+        m_TargetAssemblyTypeName: SceneChange, Assembly-CSharp
+        m_MethodName: ChangeScene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: NepaliPlace_Premium
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1650909258
 MonoBehaviour:
   m_ObjectHideFlags: 0
