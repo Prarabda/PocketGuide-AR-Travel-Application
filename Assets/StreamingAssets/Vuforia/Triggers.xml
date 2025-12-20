@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="girlswashroom" size="1.000000 0.352590" />
+    <ImageTarget name="podium" size="1.000000 1.130064" />
     <ImageTarget name="karnalicom" size="1.000000 0.348000" />
     <ImageTarget name="koshi" size="1.000000 0.347333" />
     <ImageTarget name="mbmc" size="1.000000 0.190000" />
