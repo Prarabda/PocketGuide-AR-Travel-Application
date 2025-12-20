@@ -38,6 +38,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/NepaliPlace_Premium.unity
     guid: 09610a99e5ebe0842b96af3b1d6475f1
+  - enabled: 1
+    path: Assets/Scenes/LangaugeScene_Premium.unity
+    guid: ffa2465a043e19d4c89726a37c7fd844
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 0465d33c6aee55f44b0237db8b0e0259, type: 2}
