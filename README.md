@@ -96,7 +96,7 @@ We followed trial test methodology:
 
 ### From GitHub
 1. Visit PocketGuide Repo. 
-2. Download APK from the GitHub Repo.
+2. Download APK from the GitHub Repo.(Release)
 3. Enable “Install from Unknown Sources”.  
 4. Install and open.
 
